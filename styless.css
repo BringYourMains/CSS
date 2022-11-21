@@ -4,7 +4,7 @@
 }
 
 div {
-    background-color: red;
+    background-color: violet;
     color: white;
     font-size: 32px;
     text-align: center;
@@ -12,8 +12,3 @@ div {
     
 }
 
-p {
-    background-color: green;
-    color: white;
-    font-size: 18px;
-}
